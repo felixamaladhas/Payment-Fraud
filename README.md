@@ -2,10 +2,12 @@
 
 ![images](https://github.com/user-attachments/assets/9bd32bec-ba12-46eb-ac45-c4ea74ca3a22)
 
+Presentation Link: [Payment Fraud.pptx](https://github.com/user-attachments/files/19667738/Payment.Fraud.pptx)
+
 
 # Problem statement
 
-In the digital era, online transactions are growing rapidly, making payment systems more convenient—but also more vulnerable to fraudulent activities. Fraudsters exploit weaknesses in transaction systems, leading to significant financial losses for businesses and customers alike. Detecting such fraud in real time is a major challenge due to the sheer volume of transactions and the subtle patterns that distinguish legitimate behavior from fraudulent ones.
+In the digital era, online transactions are growing rapidly, making payment systems more convenient but also more vulnerable to fraudulent activities. Fraudsters exploit weaknesses in transaction systems, leading to significant financial losses for businesses and customers alike. Detecting such fraud in real time is a major challenge due to the sheer volume of transactions and the subtle patterns that distinguish legitimate behavior from fraudulent ones.
 
 This project aims to tackle the problem of payment fraud by leveraging data science and machine learning techniques. By analyzing key features such as account age, payment method, transaction time, and payment method history, the goal is to build a predictive model that can accurately identify potentially fraudulent transactions. The outcome can help businesses enhance their fraud detection systems, minimize losses, and build customer trust.
 
